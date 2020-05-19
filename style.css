@@ -1,0 +1,32 @@
+.imgA{
+	border-radius:50%;
+	height:200px;
+	width:200px;
+	align-self:center;
+	box-shadow:#ff0000 10px 10px;
+}
+
+body{
+
+	background-color:#56ce2d;
+	color:#fcf9f9;
+	padding:10px;
+	border:10px;
+}
+.site-header {
+	background-color: #ff6a00;
+	//text-shadow:20px 12px 2px #333;
+	color: #000000;
+	font-family: monospace;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+}
+
+
+
+.header-text-style {
+	text-align: center;
+	
+}
